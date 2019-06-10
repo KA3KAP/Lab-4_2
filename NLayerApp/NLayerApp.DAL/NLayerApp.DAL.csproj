@@ -54,6 +54,9 @@
     <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Interfaces\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\EFUnitOfWork.cs" />
+    <Compile Include="Repositories\Parcel_InfoRepository.cs" />
+    <Compile Include="Repositories\Parcel_SearchRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
