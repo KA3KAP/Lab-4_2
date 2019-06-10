@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NLayerApp.DAL.Entities
 {
-    class Parcel_Search
+    public class Parcel_Search
     {
         public int Id { get; set; }
         public string Name_of_Receiver { get; set; }
