@@ -51,6 +51,8 @@
     <Compile Include="EF\ParcelContext.cs" />
     <Compile Include="Entities\Parcel_Info.cs" />
     <Compile Include="Entities\Parcel_Search.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
